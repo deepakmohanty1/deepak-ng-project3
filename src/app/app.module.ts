@@ -20,7 +20,7 @@ import { ValueComponent } from './value/value.component';
    ],
    providers: [],
    bootstrap: [
-      AppComponent
+      AppComponent 
    ]
 })
 export class AppModule { }
